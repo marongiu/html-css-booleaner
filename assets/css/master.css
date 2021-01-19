@@ -1,0 +1,94 @@
+
+*{
+  margin: 0;
+}
+.contenitore{
+  width: 1700px;
+  margin: 0 auto;
+}
+
+.background{
+  /* background-image: url("https://i.ibb.co/zh0jrPy/pattern.png"); */
+  background-image: url("../img/pattern.png");
+  background-color: #2A8EFF;
+  height: 150px;
+  margin-top: 0;
+}
+
+.logo{
+  width: 20%;
+  margin-top: 70px;
+}
+
+
+.titolo{
+  font-size: 20px;
+}
+
+#didascalia{
+  font-size: 20px;
+  color: grey;
+}
+
+#scrittore{
+  color: #5bd3ff;
+}
+
+.evidenziato{
+  background-color: yellow;
+}
+
+.list{
+  border: 0;
+  padding: 5px;
+  margin: 0;
+}
+
+
+ table{
+  width: 100%;
+  background: #68BCFF;
+  border-collapse: collapse;
+  text-align: left;
+ }
+
+ #line{
+   color: white;
+ }
+
+.linea1{
+  background: lightblue;
+  height: 50px;
+}
+
+#line2{
+  background: white;
+  height: 50px;
+}
+
+div{
+  margin-top: 20px;
+}
+
+h4{
+  color: grey;
+}
+
+.foto{
+  background-image: url("../img/monitor.jpg");
+  width: 250px;
+  height: 200px;
+}
+
+.foto1{
+  background-image: url("../img/graph.jpg");
+  width: 250px;
+  height: 200px;
+}
+
+.monitor, .graph{
+  color: white;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
